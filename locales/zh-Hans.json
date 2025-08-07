@@ -1,0 +1,48 @@
+{
+  "app_name": "zh-hans: CloudNote",
+  "tagline": "zh-hans: Notes anytime, anywhere.",
+  "buttons": {
+    "save": "zh-hans: Save",
+    "cancel": "zh-hans: Cancel",
+    "delete": "zh-hans: Delete",
+    "edit": "zh-hans: Edit",
+    "new_note": "zh-hans: New note",
+    "login": "zh-hans: Log in",
+    "signup": "zh-hans: Sign up",
+    "logout": "zh-hans: Log out"
+  },
+  "messages": {
+    "note_saved": "zh-hans: Note has been saved.",
+    "note_deleted": "zh-hans: Note has been deleted.",
+    "confirm_delete": "zh-hans: Do you really want to delete this note?",
+    "loading": "zh-hans: Loading...",
+    "error_generic": "zh-hans: Something went wrong."
+  },
+  "form": {
+    "email": "zh-hans: Email",
+    "password": "zh-hans: Password",
+    "remember_me": "zh-hans: Keep me signed in"
+  },
+  "nav": {
+    "home": "zh-hans: Home",
+    "notes": "zh-hans: Notes",
+    "settings": "zh-hans: Settings",
+    "profile": "zh-hans: Profile"
+  },
+  "errors": {
+    "required_field": "zh-hans: This field is required.",
+    "invalid_email": "zh-hans: Invalid email address.",
+    "password_min": "zh-hans: Password must be at least {min} characters long."
+  },
+  "settings": {
+    "language": "zh-hans: Language",
+    "theme": "zh-hans: Theme",
+    "dark_mode": "zh-hans: Dark mode",
+    "notifications": "zh-hans: Notifications"
+  },
+  "placeholders": {
+    "search": "zh-hans: Search...",
+    "note_title": "zh-hans: Note title",
+    "note_content": "zh-hans: Write your note here..."
+  }
+}
