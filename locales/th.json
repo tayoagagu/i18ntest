@@ -1,0 +1,48 @@
+{
+  "app_name": "th: CloudNote",
+  "tagline": "th: Notes anytime, anywhere.",
+  "buttons": {
+    "save": "th: Save",
+    "cancel": "th: Cancel",
+    "delete": "th: Delete",
+    "edit": "th: Edit",
+    "new_note": "th: New note",
+    "login": "th: Log in",
+    "signup": "th: Sign up",
+    "logout": "th: Log out"
+  },
+  "messages": {
+    "note_saved": "th: Note has been saved.",
+    "note_deleted": "th: Note has been deleted.",
+    "confirm_delete": "th: Do you really want to delete this note?",
+    "loading": "th: Loading...",
+    "error_generic": "th: Something went wrong."
+  },
+  "form": {
+    "email": "th: Email",
+    "password": "th: Password",
+    "remember_me": "th: Keep me signed in"
+  },
+  "nav": {
+    "home": "th: Home",
+    "notes": "th: Notes",
+    "settings": "th: Settings",
+    "profile": "th: Profile"
+  },
+  "errors": {
+    "required_field": "th: This field is required.",
+    "invalid_email": "th: Invalid email address.",
+    "password_min": "th: Password must be at least {min} characters long."
+  },
+  "settings": {
+    "language": "th: Language",
+    "theme": "th: Theme",
+    "dark_mode": "th: Dark mode",
+    "notifications": "th: Notifications"
+  },
+  "placeholders": {
+    "search": "th: Search...",
+    "note_title": "th: Note title",
+    "note_content": "th: Write your note here..."
+  }
+}
