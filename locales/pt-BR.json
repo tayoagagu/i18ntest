@@ -1,0 +1,48 @@
+{
+  "app_name": "pt-br: CloudNote",
+  "tagline": "pt-br: Notes anytime, anywhere.",
+  "buttons": {
+    "save": "pt-br: Save",
+    "cancel": "pt-br: Cancel",
+    "delete": "pt-br: Delete",
+    "edit": "pt-br: Edit",
+    "new_note": "pt-br: New note",
+    "login": "pt-br: Log in",
+    "signup": "pt-br: Sign up",
+    "logout": "pt-br: Log out"
+  },
+  "messages": {
+    "note_saved": "pt-br: Note has been saved.",
+    "note_deleted": "pt-br: Note has been deleted.",
+    "confirm_delete": "pt-br: Do you really want to delete this note?",
+    "loading": "pt-br: Loading...",
+    "error_generic": "pt-br: Something went wrong."
+  },
+  "form": {
+    "email": "pt-br: Email",
+    "password": "pt-br: Password",
+    "remember_me": "pt-br: Keep me signed in"
+  },
+  "nav": {
+    "home": "pt-br: Home",
+    "notes": "pt-br: Notes",
+    "settings": "pt-br: Settings",
+    "profile": "pt-br: Profile"
+  },
+  "errors": {
+    "required_field": "pt-br: This field is required.",
+    "invalid_email": "pt-br: Invalid email address.",
+    "password_min": "pt-br: Password must be at least {min} characters long."
+  },
+  "settings": {
+    "language": "pt-br: Language",
+    "theme": "pt-br: Theme",
+    "dark_mode": "pt-br: Dark mode",
+    "notifications": "pt-br: Notifications"
+  },
+  "placeholders": {
+    "search": "pt-br: Search...",
+    "note_title": "pt-br: Note title",
+    "note_content": "pt-br: Write your note here..."
+  }
+}
