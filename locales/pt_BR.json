@@ -1,0 +1,48 @@
+{
+  "app_name": "CloudNote",
+  "tagline": "Anotações a qualquer momento, em qualquer lugar.",
+  "buttons": {
+    "save": "Salvar",
+    "cancel": "Cancelar",
+    "delete": "Excluir",
+    "edit": "Editar",
+    "new_note": "Nova anotação",
+    "login": "Iniciar sessão",
+    "signup": "Cadastrar-se",
+    "logout": "Encerrar sessão"
+  },
+  "messages": {
+    "note_saved": "A anotação foi salva.",
+    "note_deleted": "A anotação foi excluída.",
+    "confirm_delete": "O senhor/A senhora realmente deseja excluir esta anotação?",
+    "loading": "Carregando...",
+    "error_generic": "Ocorreu um erro."
+  },
+  "form": {
+    "email": "Correio eletrônico",
+    "password": "Senha",
+    "remember_me": "Manter-me conectado"
+  },
+  "nav": {
+    "home": "Página inicial",
+    "notes": "Anotações",
+    "settings": "Configurações",
+    "profile": "Perfil"
+  },
+  "errors": {
+    "required_field": "Este campo é obrigatório.",
+    "invalid_email": "Endereço de correio eletrônico inválido.",
+    "password_min": "A senha deve conter no mínimo {min} caracteres."
+  },
+  "settings": {
+    "language": "Idioma",
+    "theme": "Tema",
+    "dark_mode": "Modo escuro",
+    "notifications": "Notificações"
+  },
+  "placeholders": {
+    "search": "Pesquisar...",
+    "note_title": "Título da anotação",
+    "note_content": "Escreva sua anotação aqui..."
+  }
+}

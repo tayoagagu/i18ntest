@@ -1,0 +1,48 @@
+{
+  "app_name": "CloudNote",
+  "tagline": "Notities altijd en overal.",
+  "buttons": {
+    "save": "Opslaan",
+    "cancel": "Annuleren",
+    "delete": "Verwijderen",
+    "edit": "Bewerken",
+    "new_note": "Nieuwe notitie",
+    "login": "Inloggen",
+    "signup": "Registreren",
+    "logout": "Uitloggen"
+  },
+  "messages": {
+    "note_saved": "Notitie is opgeslagen.",
+    "note_deleted": "Notitie is verwijderd.",
+    "confirm_delete": "Wil je deze notitie echt verwijderen?",
+    "loading": "Laden...",
+    "error_generic": "Er is iets misgegaan."
+  },
+  "form": {
+    "email": "E-mail",
+    "password": "Wachtwoord",
+    "remember_me": "Ingelogd blijven"
+  },
+  "nav": {
+    "home": "Home",
+    "notes": "Notities",
+    "settings": "Instellingen",
+    "profile": "Profiel"
+  },
+  "errors": {
+    "required_field": "Dit veld is verplicht.",
+    "invalid_email": "Ongeldig e-mailadres.",
+    "password_min": "Wachtwoord moet minimaal {min} tekens lang zijn."
+  },
+  "settings": {
+    "language": "Taal",
+    "theme": "Thema",
+    "dark_mode": "Donkere modus",
+    "notifications": "Meldingen"
+  },
+  "placeholders": {
+    "search": "Zoeken...",
+    "note_title": "Titel notitie",
+    "note_content": "Schrijf je notitie hier..."
+  }
+}

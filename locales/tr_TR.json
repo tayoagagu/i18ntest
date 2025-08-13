@@ -1,0 +1,48 @@
+{
+  "app_name": "CloudNote",
+  "tagline": "Her zaman, her yerde notlar.",
+  "buttons": {
+    "save": "Kaydet",
+    "cancel": "İptal",
+    "delete": "Sil",
+    "edit": "Düzenle",
+    "new_note": "Yeni not",
+    "login": "Giriş yap",
+    "signup": "Kaydol",
+    "logout": "Çıkış yap"
+  },
+  "messages": {
+    "note_saved": "Not kaydedildi.",
+    "note_deleted": "Not silindi.",
+    "confirm_delete": "Bu notu gerçekten silmek istiyor musun?",
+    "loading": "Yükleniyor...",
+    "error_generic": "Bir şeyler yanlış gitti."
+  },
+  "form": {
+    "email": "E-posta",
+    "password": "Şifre",
+    "remember_me": "Oturumumu açık tut"
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "notes": "Notlar",
+    "settings": "Ayarlar",
+    "profile": "Profil"
+  },
+  "errors": {
+    "required_field": "Bu alan zorunludur.",
+    "invalid_email": "Geçersiz e-posta adresi.",
+    "password_min": "Şifre en az {min} karakter uzunluğunda olmalıdır."
+  },
+  "settings": {
+    "language": "Dil",
+    "theme": "Tema",
+    "dark_mode": "Karanlık mod",
+    "notifications": "Bildirimler"
+  },
+  "placeholders": {
+    "search": "Ara...",
+    "note_title": "Not başlığı",
+    "note_content": "Notunu buraya yaz..."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "app_name": "CloudNote",
+  "tagline": "Muistiinpanot milloin ja missä vain.",
+  "buttons": {
+    "save": "Tallenna",
+    "cancel": "Peruuta",
+    "delete": "Poista",
+    "edit": "Muokkaa",
+    "new_note": "Uusi muistiinpano",
+    "login": "Kirjaudu sisään",
+    "signup": "Rekisteröidy",
+    "logout": "Kirjaudu ulos"
+  },
+  "messages": {
+    "note_saved": "Muistiinpano on tallennettu.",
+    "note_deleted": "Muistiinpano on poistettu.",
+    "confirm_delete": "Haluatko varmasti poistaa tämän muistiinpanon?",
+    "loading": "Ladataan...",
+    "error_generic": "Jokin meni pieleen."
+  },
+  "form": {
+    "email": "Sähköposti",
+    "password": "Salasana",
+    "remember_me": "Pidä minut kirjautuneena"
+  },
+  "nav": {
+    "home": "Etusivu",
+    "notes": "Muistiinpanot",
+    "settings": "Asetukset",
+    "profile": "Profiili"
+  },
+  "errors": {
+    "required_field": "Tämä kenttä on pakollinen.",
+    "invalid_email": "Virheellinen sähköpostiosoite.",
+    "password_min": "Salasanan on oltava vähintään {min} merkkiä pitkä."
+  },
+  "settings": {
+    "language": "Kieli",
+    "theme": "Teema",
+    "dark_mode": "Tumma tila",
+    "notifications": "Ilmoitukset"
+  },
+  "placeholders": {
+    "search": "Hae...",
+    "note_title": "Muistiinpanon otsikko",
+    "note_content": "Kirjoita muistiinpanosi tähän..."
+  }
+}

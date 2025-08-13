@@ -1,0 +1,48 @@
+{
+  "app_name": "CloudNote",
+  "tagline": "Poznámky kdykoliv, kdekoliv.",
+  "buttons": {
+    "save": "Uložit",
+    "cancel": "Zrušit",
+    "delete": "Smazat",
+    "edit": "Upravit",
+    "new_note": "Nová poznámka",
+    "login": "Přihlásit se",
+    "signup": "Zaregistrovat se",
+    "logout": "Odhlásit se"
+  },
+  "messages": {
+    "note_saved": "Poznámka byla uložena.",
+    "note_deleted": "Poznámka byla smazána.",
+    "confirm_delete": "Opravdu chceš smazat tuto poznámku?",
+    "loading": "Načítání...",
+    "error_generic": "Něco se pokazilo."
+  },
+  "form": {
+    "email": "E-mail",
+    "password": "Heslo",
+    "remember_me": "Zůstat přihlášen"
+  },
+  "nav": {
+    "home": "Domů",
+    "notes": "Poznámky",
+    "settings": "Nastavení",
+    "profile": "Profil"
+  },
+  "errors": {
+    "required_field": "Toto pole je povinné.",
+    "invalid_email": "Neplatná e-mailová adresa.",
+    "password_min": "Heslo musí být dlouhé alespoň {min} znaků."
+  },
+  "settings": {
+    "language": "Jazyk",
+    "theme": "Motiv",
+    "dark_mode": "Tmavý režim",
+    "notifications": "Oznámení"
+  },
+  "placeholders": {
+    "search": "Hledat...",
+    "note_title": "Název poznámky",
+    "note_content": "Zde napiš svou poznámku..."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "app_name": "CloudNote",
+  "tagline": "Notas en cualquier momento, en cualquier lugar.",
+  "buttons": {
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "new_note": "Nueva nota",
+    "login": "Iniciar sesión",
+    "signup": "Registrarse",
+    "logout": "Cerrar sesión"
+  },
+  "messages": {
+    "note_saved": "La nota ha sido guardada.",
+    "note_deleted": "La nota ha sido eliminada.",
+    "confirm_delete": "¿Realmente deseas eliminar esta nota?",
+    "loading": "Cargando...",
+    "error_generic": "Algo ha salido mal."
+  },
+  "form": {
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "remember_me": "Mantener sesión iniciada"
+  },
+  "nav": {
+    "home": "Inicio",
+    "notes": "Notas",
+    "settings": "Ajustes",
+    "profile": "Perfil"
+  },
+  "errors": {
+    "required_field": "Este campo es obligatorio.",
+    "invalid_email": "Dirección de correo electrónico no válida.",
+    "password_min": "La contraseña debe tener al menos {min} caracteres."
+  },
+  "settings": {
+    "language": "Idioma",
+    "theme": "Tema",
+    "dark_mode": "Modo oscuro",
+    "notifications": "Notificaciones"
+  },
+  "placeholders": {
+    "search": "Buscar...",
+    "note_title": "Título de la nota",
+    "note_content": "Escribe tu nota aquí..."
+  }
+}
