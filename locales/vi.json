@@ -1,0 +1,48 @@
+{
+  "app_name": "CloudNote",
+  "tagline": "Ghi chú mọi lúc, mọi nơi.",
+  "buttons": {
+    "save": "Lưu",
+    "cancel": "Hủy",
+    "delete": "Xóa",
+    "edit": "Chỉnh sửa",
+    "new_note": "Ghi chú mới",
+    "login": "Đăng nhập",
+    "signup": "Đăng ký",
+    "logout": "Đăng xuất"
+  },
+  "messages": {
+    "note_saved": "Ghi chú đã được lưu.",
+    "note_deleted": "Ghi chú đã được xóa.",
+    "confirm_delete": "Quý vị có thực sự muốn xóa ghi chú này không?",
+    "loading": "Đang tải...",
+    "error_generic": "Đã xảy ra sự cố."
+  },
+  "form": {
+    "email": "Thư điện tử",
+    "password": "Mật khẩu",
+    "remember_me": "Duy trì đăng nhập"
+  },
+  "nav": {
+    "home": "Trang chủ",
+    "notes": "Ghi chú",
+    "settings": "Cài đặt",
+    "profile": "Hồ sơ"
+  },
+  "errors": {
+    "required_field": "Trường này là bắt buộc.",
+    "invalid_email": "Địa chỉ thư điện tử không hợp lệ.",
+    "password_min": "Mật khẩu phải có độ dài ít nhất {min} ký tự."
+  },
+  "settings": {
+    "language": "Ngôn ngữ",
+    "theme": "Giao diện",
+    "dark_mode": "Chế độ tối",
+    "notifications": "Thông báo"
+  },
+  "placeholders": {
+    "search": "Tìm kiếm...",
+    "note_title": "Tiêu đề ghi chú",
+    "note_content": "Viết ghi chú của quý vị tại đây..."
+  }
+}
