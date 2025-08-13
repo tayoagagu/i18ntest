@@ -1,0 +1,48 @@
+{
+  "app_name": "CloudNote",
+  "tagline": "הערות בכל זמן ובכל מקום.",
+  "buttons": {
+    "save": "שמור",
+    "cancel": "ביטול",
+    "delete": "מחק",
+    "edit": "ערוך",
+    "new_note": "הערה חדשה",
+    "login": "התחבר",
+    "signup": "הירשם",
+    "logout": "התנתק"
+  },
+  "messages": {
+    "note_saved": "ההערה נשמרה.",
+    "note_deleted": "ההערה נמחקה.",
+    "confirm_delete": "האם אתה באמת רוצה למחוק את ההערה הזו?",
+    "loading": "טוען...",
+    "error_generic": "משהו השתבש."
+  },
+  "form": {
+    "email": "דואר אלקטרוני",
+    "password": "סיסמה",
+    "remember_me": "השאר אותי מחובר"
+  },
+  "nav": {
+    "home": "דף הבית",
+    "notes": "הערות",
+    "settings": "הגדרות",
+    "profile": "פרופיל"
+  },
+  "errors": {
+    "required_field": "שדה זה הוא חובה.",
+    "invalid_email": "כתובת דואר אלקטרוני לא חוקית.",
+    "password_min": "הסיסמה חייבת להיות באורך של לפחות {min} תווים."
+  },
+  "settings": {
+    "language": "שפה",
+    "theme": "ערכת נושא",
+    "dark_mode": "מצב כהה",
+    "notifications": "התראות"
+  },
+  "placeholders": {
+    "search": "חיפוש...",
+    "note_title": "כותרת ההערה",
+    "note_content": "כתוב את ההערה שלך כאן..."
+  }
+}
