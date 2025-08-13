@@ -1,0 +1,48 @@
+{
+  "app_name": "CloudNote",
+  "tagline": "Märkmed igal ajal, igal pool.",
+  "buttons": {
+    "save": "Salvesta",
+    "cancel": "Tühista",
+    "delete": "Kustuta",
+    "edit": "Muuda",
+    "new_note": "Uus märge",
+    "login": "Logi sisse",
+    "signup": "Registreeru",
+    "logout": "Logi välja"
+  },
+  "messages": {
+    "note_saved": "Märge on salvestatud.",
+    "note_deleted": "Märge on kustutatud.",
+    "confirm_delete": "Kas soovid tõesti selle märkme kustutada?",
+    "loading": "Laadimine...",
+    "error_generic": "Midagi läks valesti."
+  },
+  "form": {
+    "email": "E-post",
+    "password": "Parool",
+    "remember_me": "Hoia mind sisselogituna"
+  },
+  "nav": {
+    "home": "Avaleht",
+    "notes": "Märkmed",
+    "settings": "Seaded",
+    "profile": "Profiil"
+  },
+  "errors": {
+    "required_field": "See väli on kohustuslik.",
+    "invalid_email": "Vigane e-posti aadress.",
+    "password_min": "Parool peab olema vähemalt {min} tähemärki pikk."
+  },
+  "settings": {
+    "language": "Keel",
+    "theme": "Teema",
+    "dark_mode": "Tume režiim",
+    "notifications": "Teavitused"
+  },
+  "placeholders": {
+    "search": "Otsi...",
+    "note_title": "Märkme pealkiri",
+    "note_content": "Kirjuta oma märge siia..."
+  }
+}
