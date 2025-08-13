@@ -1,0 +1,48 @@
+{
+  "app_name": "CloudNote",
+  "tagline": "Anteckningar när som helst, var som helst.",
+  "buttons": {
+    "save": "Spara",
+    "cancel": "Avbryt",
+    "delete": "Radera",
+    "edit": "Redigera",
+    "new_note": "Ny anteckning",
+    "login": "Logga in",
+    "signup": "Registrera dig",
+    "logout": "Logga ut"
+  },
+  "messages": {
+    "note_saved": "Anteckningen har sparats.",
+    "note_deleted": "Anteckningen har raderats.",
+    "confirm_delete": "Vill du verkligen radera denna anteckning?",
+    "loading": "Laddar...",
+    "error_generic": "Något gick fel."
+  },
+  "form": {
+    "email": "E-post",
+    "password": "Lösenord",
+    "remember_me": "Håll mig inloggad"
+  },
+  "nav": {
+    "home": "Hem",
+    "notes": "Anteckningar",
+    "settings": "Inställningar",
+    "profile": "Profil"
+  },
+  "errors": {
+    "required_field": "Detta fält är obligatoriskt.",
+    "invalid_email": "Ogiltig e-postadress.",
+    "password_min": "Lösenordet måste vara minst {min} tecken långt."
+  },
+  "settings": {
+    "language": "Språk",
+    "theme": "Tema",
+    "dark_mode": "Mörkt läge",
+    "notifications": "Aviseringar"
+  },
+  "placeholders": {
+    "search": "Sök...",
+    "note_title": "Anteckningens titel",
+    "note_content": "Skriv din anteckning här..."
+  }
+}
