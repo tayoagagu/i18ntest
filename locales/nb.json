@@ -1,0 +1,48 @@
+{
+  "app_name": "CloudNote",
+  "tagline": "Notater når som helst, hvor som helst.",
+  "buttons": {
+    "save": "Lagre",
+    "cancel": "Avbryt",
+    "delete": "Slett",
+    "edit": "Rediger",
+    "new_note": "Nytt notat",
+    "login": "Logg inn",
+    "signup": "Registrer deg",
+    "logout": "Logg ut"
+  },
+  "messages": {
+    "note_saved": "Notatet er lagret.",
+    "note_deleted": "Notatet er slettet.",
+    "confirm_delete": "Ønsker De virkelig å slette dette notatet?",
+    "loading": "Laster...",
+    "error_generic": "Noe gikk galt."
+  },
+  "form": {
+    "email": "E-post",
+    "password": "Passord",
+    "remember_me": "Hold meg innlogget"
+  },
+  "nav": {
+    "home": "Hjem",
+    "notes": "Notater",
+    "settings": "Innstillinger",
+    "profile": "Profil"
+  },
+  "errors": {
+    "required_field": "Dette feltet er påkrevd.",
+    "invalid_email": "Ugyldig e-postadresse.",
+    "password_min": "Passordet må være minst {min} tegn langt."
+  },
+  "settings": {
+    "language": "Språk",
+    "theme": "Tema",
+    "dark_mode": "Mørk modus",
+    "notifications": "Varsler"
+  },
+  "placeholders": {
+    "search": "Søk...",
+    "note_title": "Notattittel",
+    "note_content": "Skriv Deres notat her..."
+  }
+}
