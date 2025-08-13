@@ -1,0 +1,48 @@
+{
+  "app_name": "CloudNote",
+  "tagline": "いつでも、どこでもメモを。",
+  "buttons": {
+    "save": "保存",
+    "cancel": "キャンセル",
+    "delete": "削除",
+    "edit": "編集",
+    "new_note": "新規メモ",
+    "login": "ログイン",
+    "signup": "登録",
+    "logout": "ログアウト"
+  },
+  "messages": {
+    "note_saved": "メモが保存されました。",
+    "note_deleted": "メモが削除されました。",
+    "confirm_delete": "このメモを本当に削除しますか？",
+    "loading": "読み込み中...",
+    "error_generic": "問題が発生しました。"
+  },
+  "form": {
+    "email": "メールアドレス",
+    "password": "パスワード",
+    "remember_me": "ログイン状態を維持する"
+  },
+  "nav": {
+    "home": "ホーム",
+    "notes": "メモ",
+    "settings": "設定",
+    "profile": "プロフィール"
+  },
+  "errors": {
+    "required_field": "このフィールドは必須です。",
+    "invalid_email": "無効なメールアドレスです。",
+    "password_min": "パスワードは少なくとも{min}文字以上である必要があります。"
+  },
+  "settings": {
+    "language": "言語",
+    "theme": "テーマ",
+    "dark_mode": "ダークモード",
+    "notifications": "通知"
+  },
+  "placeholders": {
+    "search": "検索...",
+    "note_title": "メモのタイトル",
+    "note_content": "ここにメモを書いてください..."
+  }
+}
