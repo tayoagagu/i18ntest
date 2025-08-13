@@ -1,0 +1,48 @@
+{
+  "app_name": "CloudNote",
+  "tagline": "Бележки по всяко време, навсякъде.",
+  "buttons": {
+    "save": "Запази",
+    "cancel": "Отказ",
+    "delete": "Изтрий",
+    "edit": "Редактирай",
+    "new_note": "Нова бележка",
+    "login": "Вход",
+    "signup": "Регистрация",
+    "logout": "Изход"
+  },
+  "messages": {
+    "note_saved": "Бележката е запазена.",
+    "note_deleted": "Бележката е изтрита.",
+    "confirm_delete": "Наистина ли искаш да изтриеш тази бележка?",
+    "loading": "Зареждане...",
+    "error_generic": "Нещо се обърка."
+  },
+  "form": {
+    "email": "Имейл",
+    "password": "Парола",
+    "remember_me": "Запомни ме"
+  },
+  "nav": {
+    "home": "Начало",
+    "notes": "Бележки",
+    "settings": "Настройки",
+    "profile": "Профил"
+  },
+  "errors": {
+    "required_field": "Това поле е задължително.",
+    "invalid_email": "Невалиден имейл адрес.",
+    "password_min": "Паролата трябва да е поне {min} знака."
+  },
+  "settings": {
+    "language": "Език",
+    "theme": "Тема",
+    "dark_mode": "Тъмен режим",
+    "notifications": "Известия"
+  },
+  "placeholders": {
+    "search": "Търсене...",
+    "note_title": "Заглавие на бележката",
+    "note_content": "Напиши бележката си тук..."
+  }
+}
