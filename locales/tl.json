@@ -1,0 +1,48 @@
+{
+  "app_name": "CloudNote",
+  "tagline": "Mga tala anumang oras, saanman.",
+  "buttons": {
+    "save": "I-save",
+    "cancel": "Kanselahin",
+    "delete": "Burahin",
+    "edit": "I-edit",
+    "new_note": "Bagong tala",
+    "login": "Mag-log in",
+    "signup": "Mag-sign up",
+    "logout": "Mag-log out"
+  },
+  "messages": {
+    "note_saved": "Na-save na ang tala.",
+    "note_deleted": "Nabura na ang tala.",
+    "confirm_delete": "Gusto mo ba talagang burahin ang talang ito?",
+    "loading": "Naglo-load...",
+    "error_generic": "May nangyaring mali."
+  },
+  "form": {
+    "email": "Email",
+    "password": "Password",
+    "remember_me": "Panatilihin akong naka-sign in"
+  },
+  "nav": {
+    "home": "Home",
+    "notes": "Mga Tala",
+    "settings": "Mga Setting",
+    "profile": "Profile"
+  },
+  "errors": {
+    "required_field": "Kinakailangan ang field na ito.",
+    "invalid_email": "Hindi wastong email address.",
+    "password_min": "Ang password ay dapat na hindi bababa sa {min} karakter ang haba."
+  },
+  "settings": {
+    "language": "Wika",
+    "theme": "Tema",
+    "dark_mode": "Dark mode",
+    "notifications": "Mga Notification"
+  },
+  "placeholders": {
+    "search": "Maghanap...",
+    "note_title": "Pamagat ng tala",
+    "note_content": "Isulat ang iyong tala dito..."
+  }
+}
