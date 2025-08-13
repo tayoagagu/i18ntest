@@ -1,0 +1,48 @@
+{
+  "app_name": "CloudNote",
+  "tagline": "Notizen jederzeit und überall.",
+  "buttons": {
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "new_note": "Neue Notiz",
+    "login": "Anmelden",
+    "signup": "Registrieren",
+    "logout": "Abmelden"
+  },
+  "messages": {
+    "note_saved": "Die Notiz wurde gespeichert.",
+    "note_deleted": "Die Notiz wurde gelöscht.",
+    "confirm_delete": "Möchten Sie diese Notiz wirklich löschen?",
+    "loading": "Wird geladen...",
+    "error_generic": "Es ist ein Fehler aufgetreten."
+  },
+  "form": {
+    "email": "E-Mail",
+    "password": "Passwort",
+    "remember_me": "Angemeldet bleiben"
+  },
+  "nav": {
+    "home": "Startseite",
+    "notes": "Notizen",
+    "settings": "Einstellungen",
+    "profile": "Profil"
+  },
+  "errors": {
+    "required_field": "Dieses Feld ist erforderlich.",
+    "invalid_email": "Ungültige E-Mail-Adresse.",
+    "password_min": "Das Passwort muss mindestens {min} Zeichen lang sein."
+  },
+  "settings": {
+    "language": "Sprache",
+    "theme": "Design",
+    "dark_mode": "Dunkelmodus",
+    "notifications": "Benachrichtigungen"
+  },
+  "placeholders": {
+    "search": "Suchen...",
+    "note_title": "Notiz-Titel",
+    "note_content": "Verfassen Sie hier Ihre Notiz..."
+  }
+}
