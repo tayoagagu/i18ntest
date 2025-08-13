@@ -1,0 +1,48 @@
+{
+  "app_name": "كلاود نوت",
+  "tagline": "الملاحظات في أي وقت وفي أي مكان.",
+  "buttons": {
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "new_note": "ملاحظة جديدة",
+    "login": "تسجيل الدخول",
+    "signup": "إنشاء حساب",
+    "logout": "تسجيل الخروج"
+  },
+  "messages": {
+    "note_saved": "تم حفظ الملاحظة.",
+    "note_deleted": "تم حذف الملاحظة.",
+    "confirm_delete": "هل ترغب حقًا في حذف هذه الملاحظة؟",
+    "loading": "جارٍ التحميل...",
+    "error_generic": "حدث خطأ ما."
+  },
+  "form": {
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "remember_me": "الإبقاء على تسجيل دخولي"
+  },
+  "nav": {
+    "home": "الصفحة الرئيسية",
+    "notes": "الملاحظات",
+    "settings": "الإعدادات",
+    "profile": "الملف الشخصي"
+  },
+  "errors": {
+    "required_field": "هذا الحقل مطلوب.",
+    "invalid_email": "عنوان البريد الإلكتروني غير صالح.",
+    "password_min": "يجب أن تتكون كلمة المرور من {min} حرفًا على الأقل."
+  },
+  "settings": {
+    "language": "اللغة",
+    "theme": "السمة",
+    "dark_mode": "الوضع المظلم",
+    "notifications": "الإشعارات"
+  },
+  "placeholders": {
+    "search": "بحث...",
+    "note_title": "عنوان الملاحظة",
+    "note_content": "اكتب ملاحظتك هنا..."
+  }
+}
